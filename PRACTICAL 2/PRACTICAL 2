@@ -1,0 +1,5 @@
+PROBLEM 2.1:-
+At first, I was confused about how to make the program search for the target both using a loop and using recursion. I solved this by checking each element one by one. In iterative search, I used a loop, and in recursive search, the function called itself to check the next element. I learned that if the target comes more than once, my program finds the first occurrence because it stops when it finds the target.
+
+PROBLEM 2.2:-
+At first, I found binary search a little confusing because I had to decide whether to search on the left side or right side. I solved this by finding the middle element and comparing it with the target. I used both a loop and recursion for this. I learned that binary search only works properly when the array is sorted, otherwise it can search in the wrong side and give the wrong result.
